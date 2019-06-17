@@ -17,4 +17,6 @@ params:
       link: ''
       name: Mailserver Node B
     - name: Mailserver Node F
+    - name: Apache Proxy Node H1
+    - name: Apache Proxy Node C1
   timezoneString: ' UTC'
